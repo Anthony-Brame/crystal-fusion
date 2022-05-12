@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seed Project Mobile", "Assembly-CSharp.csproj", "{93E4A0E3-AD85-9264-E22F-BC0B5C4DF3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seed Project Mobile", "Assembly-CSharp-Editor.csproj", "{683DF836-583F-735D-9C0C-19E1E0F55378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seed Project Mobile", "Assembly-UnityScript.unityproj", "{7A19CAAF-D6EA-7EA7-40FB-568DB27C41E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E4A0E3-AD85-9264-E22F-BC0B5C4DF3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E4A0E3-AD85-9264-E22F-BC0B5C4DF3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E4A0E3-AD85-9264-E22F-BC0B5C4DF3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E4A0E3-AD85-9264-E22F-BC0B5C4DF3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683DF836-583F-735D-9C0C-19E1E0F55378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683DF836-583F-735D-9C0C-19E1E0F55378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683DF836-583F-735D-9C0C-19E1E0F55378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683DF836-583F-735D-9C0C-19E1E0F55378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A19CAAF-D6EA-7EA7-40FB-568DB27C41E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A19CAAF-D6EA-7EA7-40FB-568DB27C41E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A19CAAF-D6EA-7EA7-40FB-568DB27C41E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A19CAAF-D6EA-7EA7-40FB-568DB27C41E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

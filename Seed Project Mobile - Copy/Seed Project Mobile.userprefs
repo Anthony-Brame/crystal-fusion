@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\facebook\FBscript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bossfight\BossAI.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Systems\controllerstyle.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bossfight\bullet3.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bossfight\Bossdamagescript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Atoms\MovetowardsBoss.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\BossPlayer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bossfight\bullet2.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Levels\fallingbullet.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Systems\ScoreonScreen.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bossfight\bullet1.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Atoms\Movetowards.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Levels\Leveltimer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Todolist.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Systems\demoTimer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Systems\Timer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Levels\LevelRewarder.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Levels\LevelsLauncher.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\facebook\FBscript.cs" Line="49" Column="3" />
+      <File FileName="Assets\Scripts\facebook\FacebookManager.cs" Line="14" Column="6" />
+      <File FileName="Assets\Facebook\Scripts\Utils\AsyncRequestString.cs" Line="1" Column="1" />
+      <File FileName="Assets\Facebook\Scripts\PlatformEditor\EditorFacebookGameObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Facebook\Scripts\PlatformEditor\MockDialogs\MockLoginDialog.cs" Line="101" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
